@@ -1,1 +1,1 @@
-Example of conflict in master.
+Example of conflict.
