@@ -5,3 +5,4 @@ Git tracks changes of F.
 Changed again.
 Test checkout.
 Create a new branch is quick.
+Try -no-ff.
