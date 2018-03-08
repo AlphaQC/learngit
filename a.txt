@@ -1,1 +1,1 @@
-a
+An example of conflict.
